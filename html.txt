@@ -7,6 +7,6 @@
         <title> Dhriti</title>
     </head>
     <body> 
-    <p> hii this is DHRITI </p>
+    <p> hii this is DHRITI. </p>
     </body>
 </html>
